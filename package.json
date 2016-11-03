@@ -1,0 +1,20 @@
+{
+  "name": "supercluster-server",
+  "version": "0.0.1",
+  "description": "A server side component for supercluster library from mapbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rowan Winsemius <rowanwins@yahoo.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/helpers": "^3.5.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gtran-shapefile": "^1.1.1",
+    "knex": "^0.12.6",
+    "supercluster": "^2.2.0",
+    "turf-helpers": "^3.0.12"
+  }
+}

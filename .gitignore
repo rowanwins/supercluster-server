@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+test/100K_points.prj
+test/100K_points.qpj
+test/100K_points.shp
+test/100K_points.shx
+test/100K_points.dbf
